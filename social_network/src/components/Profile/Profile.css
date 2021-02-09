@@ -1,0 +1,14 @@
+ 
+  .content img{
+    width: 50%;
+  }
+  
+  
+  .avatar img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 2px solid #ff8066;
+  
+  }

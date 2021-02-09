@@ -1,0 +1,26 @@
+.nav{
+    grid-area: n;
+    background-color: #363c42;
+    
+  }
+  
+  .nav div{
+    padding: 5px 10px;
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+  } 
+  
+  .nav div:hover a{
+    
+    color: rgba(126, 206, 252, 0.8);; 
+      
+  }
+  
+  .nav div:hover{  
+    border-left: 2px solid #7ecefc; 
+    
+  }
